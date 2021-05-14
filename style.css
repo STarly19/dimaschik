@@ -1,0 +1,34 @@
+body
+{
+background:blue;
+color:red;
+font-size: 12px;
+}
+#container {
+background: yellow;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+}
+#header {
+background: orange;
+height: 200px;
+width: 900px;
+}
+#menu {
+background: green;
+float: left;
+width: 200px;
+height: 600px;
+}
+#content {
+background: pink;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: blue;
+height: 80px;
+width: 900px;
+}
